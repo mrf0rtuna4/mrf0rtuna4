@@ -31,7 +31,7 @@
     <h2>🚀 Проекты</h2>
     <ul>
       <li>
-        <a href="https://github.com/mrf0rtuna4/usb_sync">UsbSync</a>
+        <a href="https://github.com/ByteHive-Dev">ByteHive</a>
       </li>
       <li>
         <a href="<https://github.com/mrf0rtuna4/KayaBot">KayaBot</a>
