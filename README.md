@@ -1,7 +1,14 @@
 <!-- README.md -->
 <!-- lang: en-->
-[English](locales/en.md)
-[Русский](locales/ru.md)
+<div align="center">
+  <a href="locales/en.md">
+    <img src="https://img.shields.io/badge/Language-English-brightgreen?style=fontawesome" alt="English" />
+  </a>
+  <a href="locales/ru.md">
+    <img src="https://img.shields.io/badge/Language-Русский-brightgreen?style=fontawesome" alt="Русский" />
+  </a>
+</div>
+
 
 <div align="center">
   <a href="http://heypers-lab.ml/">
