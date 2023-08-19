@@ -2,10 +2,19 @@
 <!-- lang: en-->
 <div align="center">
   <a href="locales/en.md">
-    <img src="https://img.shields.io/badge/Language-English-brightgreen?style=fontawesome" alt="English" />
+    <img src="https://img.shields.io/badge/language-English-blue" alt="English" />
+  </a>
+  <a href="locales/es.md">
+    <img src="https://img.shields.io/badge/idioma-Español-blue" alt="Español" />
+  </a>
+  <a href="locales/zh.md">
+    <img src="https://img.shields.io/badge/语言-中文-blue" alt="中文" />
+  </a>
+  <a href="locales/fr.md">
+    <img src="https://img.shields.io/badge/langue-Français-blue" alt="Français" />
   </a>
   <a href="locales/ru.md">
-    <img src="https://img.shields.io/badge/Language-Русский-brightgreen?style=fontawesome" alt="Русский" />
+    <img src="https://img.shields.io/badge/язык-Русский-blue" alt="Русский" />
   </a>
 </div>
 
@@ -14,10 +23,17 @@
   <a href="http://heypers-lab.ml/">
     <img src="https://img.shields.io/discord/823510265504989194.svg?style=for-the-badge&logo=discord&logoColor=white&color=7289DA" alt="Discord Server" />
   </a>
+  <a href="https://t.me/heypers_project">
+    <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
+  </a>
+  <a href="https://github.com/ByteHive-Dev">
+    <img src="https://img.shields.io/badge/For%20Developers-ByteHive-blue?style=for-the-badge&logo=github" alt="ByteHive" />
+  </a>
   <a href="https://mrf0rtuna4.ml">
     <img src="https://img.shields.io/badge/More%20Info-Visit%20Here-blueviolet?style=for-the-badge" alt="More Info" />
   </a>
 </div>
+
 
 # 👋 Hello, I'm - Mr_Fortuna
 
