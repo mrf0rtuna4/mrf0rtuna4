@@ -1,6 +1,6 @@
 <!-- lang: fr -->
 <div align="center">
-  <a href="locales/en.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/langue-English-brightgreen" alt="English" />
   </a>
   <a href="locales/es.md">
@@ -23,8 +23,8 @@ Bienvenue ! Je suis impliqué dans le développement et la gestion du projet Hey
 
 ## 🧠 Compétences Techniques
 
-- 💻 Expérience : JavaScript, HTML, CSS, PHP
-- 🔍 En apprentissage : Python, Java, C++ et bien plus...
+- 💻 Expérience : Python, JS, HTML, CSS, PHP
+- 🔍 En apprentissage : Go, Java, C++ et bien plus...
 
 ## ⚙️ Statistiques
 

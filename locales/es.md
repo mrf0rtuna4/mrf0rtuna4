@@ -15,8 +15,8 @@
 
 ## 🧠 Habilidades Técnicas
 
-- 💻 Experiencia: JavaScript, HTML, CSS, PHP
-- 🔍 Aprendiendo: Python, Java, C++ y más...
+- 💻 Experiencia: Python, JS, HTML, CSS, PHP
+- 🔍 Aprendiendo: Go, Java, C++ y más...
 
 ## ⚙️ Estadísticas
 

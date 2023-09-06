@@ -1,7 +1,7 @@
 <!-- README.md -->
 <!-- lang: en-->
 <div align="center">
-  <a href="locales/en.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/language-English-blue" alt="English" />
   </a>
   <a href="locales/es.md">
@@ -41,8 +41,8 @@ Welcome! I'm involved in the development and management of the Heypers project, 
 
 ## 🧠 Technical Skills
 
-- 💻 Experience: JavaScript, HTML, CSS, PHP
-- 🔍 Learning: Python, Java, C++, and more...
+- 💻 Experience: Python, JS, HTML, CSS, PHP
+- 🔍 Learning: Go, C++, Java, and more...
 
 ## ⚙️ Statistics
 

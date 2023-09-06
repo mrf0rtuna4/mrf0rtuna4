@@ -1,7 +1,7 @@
 <!-- lang: zh -->
 
 <div align="center">
-  <a href="locales/en.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/语言-English-brightgreen" alt="English" />
   </a>
   <a href="locales/es.md">
@@ -24,8 +24,8 @@
 
 ## 🧠 技术技能
 
-- 💻 经验：JavaScript、HTML、CSS、PHP
-- 🔍 学习中：Python、Java、C++ 等等……
+- 💻 经验：Python, JS、HTML、CSS、PHP
+- 🔍 学习中：Go、Java、C++ 等等……
 
 ## ⚙️ 统计数据
 
