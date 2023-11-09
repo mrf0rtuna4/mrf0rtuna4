@@ -1,6 +1,9 @@
 <!-- README.md -->
 <!-- lang: en-->
 <div align="center">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=flat-square&color=green&label=PROFILE+VIEWS" />
+  </a>
   <a href="README.md">
     <img src="https://img.shields.io/badge/language-English-blue" alt="English" />
   </a>
@@ -17,8 +20,7 @@
     <img src="https://img.shields.io/badge/язык-Русский-blue" alt="Русский" />
   </a>
 </div>
-
-
+ 
 <div align="center">
   <a href="http://heypers-lab.ml/">
     <img src="https://img.shields.io/discord/823510265504989194.svg?style=for-the-badge&logo=discord&logoColor=white&color=7289DA" alt="Discord Server" />
@@ -31,7 +33,7 @@
   </a>
   <a href="https://mrf0rtuna4.ml">
     <img src="https://img.shields.io/badge/More%20Info-Visit%20Here-blueviolet?style=for-the-badge" alt="More Info" />
-  </a>
+  </a> 
 </div>
 
 
