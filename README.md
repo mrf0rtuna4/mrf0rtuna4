@@ -4,7 +4,7 @@
   <a>
     <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=flat-square&color=green&label=PROFILE+VIEWS" />
   </a>
-  <a href="README.md">
+  <!--<a href="README.md">
     <img src="https://img.shields.io/badge/language-English-blue" alt="English" />
   </a>
   <a href="locales/es.md">
@@ -15,9 +15,9 @@
   </a>
   <a href="locales/fr.md">
     <img src="https://img.shields.io/badge/langue-Français-blue" alt="Français" />
-  </a>
+  </a>-->
   <a href="locales/ru.md">
-    <img src="https://img.shields.io/badge/язык-Русский-blue" alt="Русский" />
+    <img src="https://img.shields.io/badge/Язык-Русский-blue" alt="Русский" />
   </a>
 </div>
  
