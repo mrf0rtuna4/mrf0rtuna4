@@ -4,18 +4,6 @@
   <a>
     <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=flat-square&color=green&label=PROFILE+VIEWS" />
   </a>
-  <!--<a href="README.md">
-    <img src="https://img.shields.io/badge/language-English-blue" alt="English" />
-  </a>
-  <a href="locales/es.md">
-    <img src="https://img.shields.io/badge/idioma-Español-blue" alt="Español" />
-  </a>
-  <a href="locales/zh.md">
-    <img src="https://img.shields.io/badge/语言-中文-blue" alt="中文" />
-  </a>
-  <a href="locales/fr.md">
-    <img src="https://img.shields.io/badge/langue-Français-blue" alt="Français" />
-  </a>-->
   <a href="locales/ru.md">
     <img src="https://img.shields.io/badge/Язык-Русский-blue" alt="Русский" />
   </a>
@@ -56,6 +44,7 @@ Welcome! I'm involved in the development and management of the Heypers project, 
 
 ## 🚀 Projects
 
-- [ByteHive](https://github.com/ByteHive-Dev)
-- [KayaBot](https://github.com/mrf0rtuna4/KayaBot)
-- ... and much more!
+- [🌟 Heypers Project](https://discord.gg/N8MYbANVJ6) 
+- [🐝 ByteHive](https://github.com/ByteHive-Dev) 
+- [🤖 KayaBot](https://github.com/mrf0rtuna4/KayaBot) 
+- ... and much more! 🚀
