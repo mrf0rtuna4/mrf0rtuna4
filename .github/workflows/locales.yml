@@ -25,4 +25,4 @@ jobs:
 
     - name: Update Localizations
       run: |
-        python update_localizations.py
+        python updater.py
