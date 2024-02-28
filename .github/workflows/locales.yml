@@ -3,7 +3,7 @@ name: Update Localizations
 on:
   push:
     branches:
-      - main  
+      - main
 
 jobs:
   update_localizations:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.10.13'
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
@@ -26,3 +26,23 @@ jobs:
     - name: Update Localizations
       run: |
         python updater.py
+
+    - name: Check for Changes
+      id: check_changes
+      run: |
+        git diff --quiet || echo "Changes found"
+      continue-on-error: true
+
+    - name: Commit Changes
+      if: steps.check_changes.outputs.return-value == 'Changes found'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update localizations"
+      
+    - name: Push Changes
+      if: steps.check_changes.outputs.return-value == 'Changes found'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
