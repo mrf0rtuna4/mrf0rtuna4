@@ -32,6 +32,9 @@ jobs:
       run: |
         git diff --quiet || echo "Changes found"
       continue-on-error: true
+    
+    - name: Debug Check for Changes
+      run: echo "Changes found status:" + ${{ steps.check_changes.outputs.return-value }}
 
     - name: Commit Changes
       if: steps.check_changes.outputs.return-value == 'Changes found'
@@ -40,9 +43,20 @@ jobs:
         git config --local user.name "mr_f0rtuna4"
         git add -A
         git commit -m "Update localizations"
-      
+      env:
+        GIT_COMMITTER_NAME: "mr_f0rtuna4"
+        GIT_COMMITTER_EMAIL: ${{ secrets.EMAIL }}
+
+    - name: Debug Commit Changes
+      if: steps.check_changes.outputs.return-value == 'Changes found'
+      run: echo "Commit changes executed."
+
     - name: Push Changes
       if: steps.check_changes.outputs.return-value == 'Changes found'
       run: git push
       env:
         GITHUB_TOKEN: ${{ secrets.GTK }}
+
+    - name: Debug Push Changes
+      if: steps.check_changes.outputs.return-value == 'Changes found'
+      run: echo "Push changes executed."
