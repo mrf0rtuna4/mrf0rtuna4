@@ -25,7 +25,7 @@ jobs:
 
     - name: Update Localizations
       run: |
-        python updater.py
+        python update_localizations.py
 
     - name: Check for Changes
       id: check_changes
@@ -36,13 +36,13 @@ jobs:
     - name: Commit Changes
       if: steps.check_changes.outputs.return-value == 'Changes found'
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
+        git config --local user.email ${{ secrets.EMAIL }}
+        git config --local user.name "mr_f0rtuna4"
+        git add -A
         git commit -m "Update localizations"
       
     - name: Push Changes
       if: steps.check_changes.outputs.return-value == 'Changes found'
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GTK }}
+      run: git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GTK }}
