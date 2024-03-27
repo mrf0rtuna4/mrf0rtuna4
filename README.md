@@ -19,7 +19,7 @@
   <a href="https://github.com/ByteHive-Dev">
     <img src="https://img.shields.io/badge/For%20Developers-ByteHive-blue?style=for-the-badge&logo=github" alt="ByteHive" />
   </a>
-  <a href="https://mrf0rtuna4.ml">
+  <a href="https://mrf0rtuna4.github.io/">
     <img src="https://img.shields.io/badge/More%20Info-Visit%20Here-blueviolet?style=for-the-badge" alt="More Info" />
   </a> 
 </div>
