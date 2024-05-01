@@ -42,6 +42,12 @@ Welcome! I'm involved in the development and management of the Heypers project, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrf0rtuna4&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+  <img src="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
 ## 🚀 Projects
 
 - [🌟 Heypers Project](https://discord.gg/N8MYbANVJ6) 
