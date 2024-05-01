@@ -24,22 +24,50 @@
   </a> 
 </div>
 
-
-# 👋 Hello, I'm - Mr_Fortuna
-
-Welcome! I'm involved in the development and management of the Heypers project, which aims to create unique communities and enable human interaction through new technologies.
-
-## 🧠 Technical Skills
-
-- 💻 Experience: Python, JS, HTML, CSS, PHP
-- 🔍 Learning: Go, C++, Java, and more...
-
-## ⚙️ Statistics
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrf0rtuna4&theme=dark&mode=weekly&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrf0rtuna4&layout=compact&theme=dark" alt="Top Languages" />
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi...+I'm+Mr_Fortuna;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
+
+<div align="center">
+    <h2>🚀 About Me</h2>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p> I'm involved in the development and management of the Heypers project, which aims to create unique communities and enable human interaction through new technologies. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+</div>
+
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-8cfc98?style=for-the-badge&logo=html&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+
+
+<div align="center">
+    <h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
+    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Blender-FF4000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading"> ⚙️ Statistics</h2>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=mrf0rtuna4&theme=merko" alt="mrf0rtuna's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrf0rtuna4&theme=github_dark&utcOffset=10" alt="mrf0rtuna4's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats"/></td>
+    </tr>
+ </table>
 </div>
 
 <div align="center">
