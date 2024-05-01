@@ -86,6 +86,8 @@
   <img src="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
+  ![Snake animation](https://github.com/mrf0rtuna4/mrf0rtuna4/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 Projects
 
 - [🌟 Heypers Project](https://discord.gg/N8MYbANVJ6) 
