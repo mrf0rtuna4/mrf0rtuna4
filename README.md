@@ -82,11 +82,20 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-  <img src="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-</div>
-
-  ![Snake animation](https://github.com/mrf0rtuna4/mrf0rtuna4/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="grid"
+    src="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 🚀 Projects
 
