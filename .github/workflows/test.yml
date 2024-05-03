@@ -1,0 +1,29 @@
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  workflow_dispatch:
+  
+  push:
+    branches:
+    - master
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run translation
+      - uses: mrf0rtuna4/Github-Readme-AutoTranslator@v1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GTK }} # Specify your env parameter for the token
+          LANGS: 'serbian,italian,english' # Specify the languages of translation 
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: translations
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GTK }}
