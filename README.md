@@ -72,7 +72,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=github_dark" alt="mrf0rtuna4's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrf0rtuna4&theme=github_dark&utcOffset=10" alt="mrf0rtuna4's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrf0rtuna4&theme=github_dark&utcOffset=3" alt="mrf0rtuna4's GitHub Stats"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats"/></td>
     </tr>
