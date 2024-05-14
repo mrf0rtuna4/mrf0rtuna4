@@ -4,9 +4,24 @@
   <a>
     <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=flat-square&color=green&label=PROFILE+VIEWS" />
   </a>
-  <a href="locales/ru.md">
-    <img src="https://img.shields.io/badge/Язык-Русский-blue" alt="Русский" />
+</div>
+<div align="center">
+  <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/locales/ru.md">
+      <img src="https://img.shields.io/badge/Язык-Руский-blue" alt="Руский" />
   </a>
+  <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/locales/ja.md">
+      <img src="https://img.shields.io/badge/言語-日本語-blue" alt="日本語" />
+  </a>
+  <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/locales/it.md">
+      <img src="https://img.shields.io/badge/Lingua-Italiano-blue" alt="Italiano" />
+  </a>
+  <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/locales/uk.md">
+      <img src="https://img.shields.io/badge/Мова-Українська-blue" alt="Українська" />
+  </a>
+  <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/locales/ar.md">
+      <img src="https://img.shields.io/badge/لغة-العربية-blue" alt="العربية" />
+  </a>
+
 </div>
  
 <div align="center">
