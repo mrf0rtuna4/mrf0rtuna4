@@ -1,21 +1,21 @@
-# Лицензия 
+## Licence 
 
-## Основные положения
+## Main Provisions
 
-1. **Авторские права**: Весь контент, размещенный под этой лицензией, остается под защитой авторских прав, принадлежащих mr_fortuna как владельцу проекта.
+1. **Copyrights**: All content posted under this licence remains under copyright owned by mr_fortuna as the owner of the project.
 
-2. **Бесплатное использование**: Мы предоставляем всем пользователям право использовать, копировать, модифицировать и распространять контент под условием соблюдения данной лицензии.
+2. **Free Use**: We grant all users the right to use, copy, modify and distribute content subject to this licence.
 
-3. **Отказ от ответственности**: Мы не несем ответственности за любые последствия использования контента другими пользователями.
+3. **Disclaimer**: We are not responsible for any consequences of other users' use of the content.
 
-## Открытый исходный код
+## Open Source
 
-1. **Раскрытие исходного кода**: При распространении или модификации вашего программного обеспечения, другие пользователи обязаны предоставить доступ к исходному коду в соответствии с условиями данной лицензии.
+1. **Source Code Disclosure**: When distributing or modifying your software, other users are required to provide access to the source code in accordance with the terms of this licence.
 
-2. **Соблюдение лицензии**: Пользователи, использующие, копирующие или модифицирующие ваше программное обеспечение, обязаны соблюдать условия этой лицензии и сохранять уведомления об авторских правах.
+2. **Licence Compliance**: Users who use, copy or modify your software are required to comply with the terms of this licence and retain copyright notices.
 
-## Заключительные положения
+## Final Terms
 
-Это лишь краткое изложение основных положений. Для полного текста лицензии обратитесь к файлу [HeypersLicense](https://github.com/heypers/heypers/blob/main/Heypers-License.md).
+This is only a summary of the main provisions. Please refer to the [HeypersLicense](https://github.com/heypers/heypers/blob/main/Heypers-License.md) file for the full text of the licence.
 
-**Благодарим вас за соблюдение условий лицензии!**
+**Thank you for complying with the terms of the licence!
