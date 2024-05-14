@@ -25,7 +25,7 @@
 </div>
  
 <div align="center">
-  <a href="http://heypers-lab.ml/">
+  <a href="https://discord.gg/NeCBAfQp6Q">
     <img src="https://img.shields.io/discord/823510265504989194.svg?style=for-the-badge&logo=discord&logoColor=white&color=7289DA" alt="Discord Server" />
   </a>
   <a href="https://t.me/heypers_project">
