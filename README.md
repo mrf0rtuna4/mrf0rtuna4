@@ -115,5 +115,5 @@
 
 - [🌟 Heypers Project](https://discord.gg/N8MYbANVJ6) 
 - [🐝 ByteHive](https://github.com/ByteHive-Dev) 
-- [🤖 KayaBot](https://github.com/mrf0rtuna4/KayaBot) 
+- [🤖 KayaBot](https://github.com/kaya-devs) 
 - ... and much more! 🚀
