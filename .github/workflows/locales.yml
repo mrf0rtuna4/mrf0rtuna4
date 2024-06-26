@@ -1,9 +1,6 @@
 name: Generate Localized Readme
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
-
   workflow_dispatch:
 
   push:
