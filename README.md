@@ -77,15 +77,20 @@
 
 <h2 align="center">⚙️ Statistics</h2>
 <div align="center">
-  <table>
+  <table cellspacing="0">
     <tr>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrf0rtuna4&theme=merko" alt="mrf0rtuna4's Contribution Streak" /></td>
     </tr>
   </table>
-  <table>
+  <table cellspacing="0">
     <tr>
+      <td><img src="https://duolingo-stats-card.vercel.app/api?username=MisterFort&theme=nightowl" alt="Duolingo Stats"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=github_dark" alt="mrf0rtuna4's GitHub Stats" /></td>
+    </tr>
+  </table>
+  <table cellspacing="0">
+    <tr>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrf0rtuna4&theme=github_dark&utcOffset=3" alt="mrf0rtuna4's GitHub Stats" /></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats" /></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrf0rtuna4&theme=github_dark" alt="mrf0rtuna4's GitHub Stats" /></td>
