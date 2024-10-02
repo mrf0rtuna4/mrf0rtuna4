@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
   <a href="https://mrf0rtuna4.github.io/">
-    <img src="https://img.shields.io/badge/More%20Info-Visit%20Here-blueviolet?style=for-the-badge" alt="More Info" />
+    <img src="https://img.shields.io/badge/%20-Site%20Here-blueviolet?style=for-the-badge" alt="More Info" />
   </a>
 </div>
 
