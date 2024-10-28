@@ -85,7 +85,7 @@
   </table>
   <table cellspacing="0">
     <tr>
-      <td><img src="https://duolingo-stats-card.vercel.app/api?username=MisterFort&theme=nightowl" alt="Duolingo Stats"/></td>
+      <td><img src="https://duolingo-stats-card.vercel.app/api?username=mr_f0rtuna4&theme=nightowl" alt="Duolingo Stats"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=github_dark" alt="mrf0rtuna4's GitHub Stats" /></td>
     </tr>
   </table>
