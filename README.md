@@ -2,6 +2,7 @@
   <a href="https://github.com/mrf0rtuna4">
     <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=flat-square&color=green&label=Profile+Views" alt="Profile Views" />
   </a>
+  <a href="https://wakatime.com/@mr_fortuna"><img src="https://wakatime.com/badge/user/6cbc12fa-3e1e-4cbd-908d-0c349269741c.svg" alt="Total time coded since Nov 26 2024" /></a> 
 </div>
 
 <div align="center">
@@ -32,7 +33,6 @@
   <a href="https://mrf0rtuna4.github.io/">
     <img src="https://img.shields.io/badge/%20-Site%20Here-blueviolet?style=for-the-badge" alt="More Info" />
   </a>
-  <a href="https://wakatime.com/@mr_fortuna"><img src="https://wakatime.com/badge/user/6cbc12fa-3e1e-4cbd-908d-0c349269741c.svg" alt="Total time coded since Nov 26 2024" /></a>
 </div>
 
 <div align="center">
