@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/ru_README.md">
-    <img src="https://img.shields.io/badge/Язык-Руский-blue" alt="Руский" />
+  <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/en_README.md">
+    <img src="https://img.shields.io/badge/Language-English-blue" alt="English" />
   </a>
   <a href="https://github.com/mrf0rtuna4/mrf0rtuna4/blob/translations/ja_README.md">
     <img src="https://img.shields.io/badge/言語-日本語-blue" alt="日本語" />
