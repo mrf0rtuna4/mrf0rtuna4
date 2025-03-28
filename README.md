@@ -103,3 +103,10 @@
     <img src="https://img.shields.io/badge/🤖%20KayaBot-Discover%20Now-blue?style=for-the-badge" alt="KayaBot" />
   </a>
 </div>
+
+<details>
+<summary>🖼 Мое фото (честно)</summary>
+  
+  ![image](https://github.com/user-attachments/assets/547709ee-f529-4a2a-a92f-3942f41054de)
+  
+</details>
