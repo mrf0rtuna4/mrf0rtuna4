@@ -37,18 +37,18 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=51b565&center=true&vCenter=true&width=435&lines=:);Hello;I'm+Mr_Fortuna;This+is;my+Github+profile..;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=51b565&center=true&vCenter=true&width=435&lines=Сосали?;Если+да+то+читай;" alt="Typing SVG" />
   </h1>
 </div>
 
 <div align="center">
-  <h2>🚀 About Me</h2>
+  <h2>📖 Обо мне</h2>
   <p>
-    I'm involved in the development and management of the Heypers project, which aims to create unique communities and enable human interaction through new technologies. My technical expertise ranges from standard applications and containerisation to CRM and 3D modelling.
+    Ну это я, что-то умею (возможно), питоны, жабы и всякое с управлением серверов, а еще проект Heypers есть.
   </p>
 </div>
 
-<h2 align="center">💻 Skill in</h2>
+<h2 align="center">💻 Умею в</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/xml-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="xml" />
 </div>
 
-<h2 align="center">⚙️ Statistics</h2>
+<h2 align="center">⚙️ Статистика</h2>
 <div align="center">
   <table cellspacing="0">
     <tr>
@@ -85,7 +85,7 @@
   </table>
 </div>
 
-<h2 align="center">🚀 GitHub Commits</h2>
+<h2 align="center">🐍 Змейка ест активность</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrf0rtuna4/mrf0rtuna4/output/github-contribution-grid-snake-dark.svg" />
@@ -94,7 +94,7 @@
   </picture>
 </div>
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🚀 Проекты</h2>
 <div align="center">
   <a href="https://discord.gg/N8MYbANVJ6">
     <img src="https://img.shields.io/badge/🌟%20Heypers%20Project-Join%20Now-blue?style=for-the-badge" alt="Heypers Project" />
