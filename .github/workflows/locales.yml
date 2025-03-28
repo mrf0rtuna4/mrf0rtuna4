@@ -17,7 +17,7 @@ jobs:
       - name: Run translation
         uses: mrf0rtuna4/Git-Markdown-AutoTranslator@master
         env:
-          LANGS: 'ru, ar, uk, it, ja'
+          LANGS: 'en, ar, uk, it, ja'
           FILES: 'README.md'
 
       - name: Push to GitHub
