@@ -86,4 +86,5 @@
   <a href="https://wakatime.com/@mr_fortuna"><img src="https://wakatime.com/badge/user/6cbc12fa-3e1e-4cbd-908d-0c349269741c.svg" alt="Total time coded since Nov 26 2024" /></a> 
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=radical
+)
