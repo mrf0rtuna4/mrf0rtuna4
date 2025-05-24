@@ -1,4 +1,4 @@
-name: Generate Localized File
+name: Generate Localized Readme
 
 on:
   workflow_dispatch:
