@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <b>Python/Django Backend & Minecraft Plugin Developer</b><br>
-  <i>Open Source Contributor • Discord OAuth2 Specialist • KYC/OCR Architect</i><br>
+  <b>Python/Django Backend & Minecraft Java Developer</b><br>
+  <i>Open Source Contributor • OAuth2 Specialist • Mod's/Plugins creator</i><br>
 </p>
 
 ---
