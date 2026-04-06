@@ -128,7 +128,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img src="./profile/stats.svg" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrf0rtuna4&theme=tokyonight&hide_border=true" />
 </p>
