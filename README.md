@@ -1,134 +1,169 @@
 <div align="center">
   <h1>Mr_Fortuna</h1>
-  <p><b>Пью бетон евридей</b> · <i>ъ!</i></p>
+  <p><b>Пью бетон evriday</b> · <i>ъ!</i></p>
+
   <p>
-    программист · 3D · свои штуки для Minecraft, Python и Web
+    <code>programmer</code> · <code>3D</code> · <code>Minecraft stuff</code> · <code>web</code>
   </p>
 
   <p>
-    <a href="https://github.com/mrf0rtuna4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://t.me/mr_fortuna"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <a href="https://fortuna.heypers.org/"><img src="https://img.shields.io/badge/Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Site"></a>
+    <a href="https://github.com/mrf0rtuna4">
+      <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github">
+    </a>
+    <a href="https://t.me/mr_fortuna">
+      <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram">
+    </a>
+    <a href="https://fortuna.heypers.org/">
+      <img src="https://img.shields.io/badge/-Site-000?style=for-the-badge&logo=vercel">
+    </a>
   </p>
 </div>
 
 ---
 
-### Что здесь происходит
+<div align="center">
+  <h2>⚙️ что тут вообще происходит</h2>
+</div>
 
-Я делаю вещи, которые иногда выглядят как будто не сварил, а потом внезапно становятся полезными:
+> иногда это выглядит как 💀  
+> потом внезапно становится полезным
 
-- пишу Python- и JS-инструменты,
-- ковыряю Minecraft-экосистему,
-- собираю веб- и Discord-штуки,
-- время от времени ухожу в 3D и дизайн,
-- люблю проекты, где есть характер, а не просто «ещё одна обёртка».
+- пишу штуки, которые **должны были быть маленькими**
+- ломаю Minecraft и собираю обратно
+- делаю веб + Discord
+- иногда ухожу в 3D и не возвращаюсь
 
 ---
 
-### Стек
+<div align="center">
+  <h2>💣 stack</h2>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+<p align="center">
+  <img src="https://img.shields.io/badge/py-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/cs-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/rs-000000?style=for-the-badge&logo=rust">
 </p>
 
 ---
 
-### Проекты, которые стоит открыть
+<div align="center">
+  <h2>📦 штуки которые стоит открыть</h2>
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🎲 RandomLoot</h3>
-      <p>Лёгкий плагин для Minecraft, который меняет дефолтные дропы на непредсказуемый лут и умеет добавлять эффекты событий.</p>
-      <p><code>Java</code> · <code>minecraft-plugin</code> · <code>PaperMC</code></p>
+      <p>рандом вместо логики, minecraft страдает.</p>
+      <p><code>Java</code><code>Gradle</code><code>loot goes brrr</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📦 FolderSyncer</h3>
-      <p>Консольная JS-программа для синхронизации папок на компьютере. Без лишнего шума, просто делает работу.</p>
-      <p><code>JavaScript</code> · <code>console</code> · <code>sync</code></p>
+      <p>синхронит папки. молча типа</p>
+      <p><code>JS</code><code>it just works</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ааа текст</h3>
-      <p>успешно</p>
-      <p><code>Python</code> · <code>API</code> · <code>wrapper</code></p>
+      <h3>???</h3>
+      <p>оно работает. не трогай.</p>
+      <p><code>trust me</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📝 Git-Markdown-AutoTranslator</h3>
-      <p>Автоматически переводит README и другие markdown-файлы. Полезная штука, когда репозиторий должен жить на нескольких языках.</p>
-      <p><code>Python</code> · <code>GitHub Actions</code> · <code>translation</code></p>
+      <h3>📝 AutoTranslator</h3>
+      <p>переводит README пока ты спишь</p>
+      <p><code>Python / Workflow</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡 PolicyLockLLM</h3>
-      <p>Расширение для браузера, которое ограничивает доступ к LLM-сайтам в корпоративной среде.</p>
-      <p><code>JavaScript</code> · <code>extension</code> · <code>security</code></p>
+      <p>закрывает доступ туда куда не надо</p>
+      <p><code>JS</code><code>bonk</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 mrf0rtuna4.github.io</h3>
-      <p>Личный сайт-визитка, собранный вручную. Без шаблоннов, зато со своей поликлиникой.</p>
-      <p><code>HTML</code> · <code>website</code> · <code>portfolio</code></p>
+      <h3>🌐 site</h3>
+      <p>Не придумал, просто прикольно</p>
+      <p><code>html moment</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### Короче
+<div align="center">
+  <h2>🧠 mindset</h2>
+</div>
 
-- люблю проекты, где есть идея и польза;
-- не боюсь странных комбинаций технологий;
-- иногда делаю вещи, которые сначала кажутся «ну это же мелочь», а потом без них уже неудобно жить;
-- предпочитаю, чтобы код не просто работал, а ещё и не стыдно было показать.
+```
+
+делай просто → потом делай нормально → потом не трогай если работает
+
+```
+
+- люблю когда код не стыдно открыть через полгода  
+- странные стеки = нормальные решения  
+- если можно упростить таки надо упростить  
+- если нельзя ну короче делаем вид что можно  
 
 ---
 
-### Где меня искать
+<div align="center">
+  <h2>📡 связь</h2>
+</div>
 
-<p align="left">
-  <a href="https://github.com/mrf0rtuna4"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/mr_fortuna"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://fortuna.heypers.org/"><img src="https://img.shields.io/badge/Website-111827.svg?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/mrf0rtuna4"></a>
+<p align="center">
+  <a href="https://github.com/mrf0rtuna4">
+    <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://t.me/mr_fortuna">
+    <img src="https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="https://fortuna.heypers.org/">
+    <img src="https://img.shields.io/badge/site-000?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
 ---
 
 <details>
-  <summary>ещё немного мета</summary>
+  <summary>⚠️ legal stuff (очень серьёзно)</summary>
 
   <p>
-    Это... Мой контент защищен DMCA. 🖐 🖐 Несанкционированное распространение, включая утечку информации, создание скриншотов, 📸 или копирование ©, влечет за собой судебное преследование. 🧑‍⚖️ У вас нет разрешения на распространение этого контента за пределами моей страницы. ⚠️ ⚠️ ⚠️
+    этот контент настолько мощный что защищён вселенной.<br>
+    копируешь → приходят юристы → потом баги в коде сами появляются.
   </p>
 </details>
 
 ---
 
-## ❄️ Статистика
+## ❄️ stats
 
 <div align="center">
-  <a href="https://github.com/mrf0rtuna4">
-    <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=flat-square&color=00C2FF&label=Profile+Views" alt="Views" />
-  </a>
-  <a href="https://wakatime.com/@mr_fortuna">
-    <img src="https://wakatime.com/badge/user/6cbc12fa-3e1e-4cbd-908d-0c349269741c.svg" alt="Wakatime" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=for-the-badge&color=0f0f0f&label=views">
+  <img src="https://wakatime.com/badge/user/6cbc12fa-3e1e-4cbd-908d-0c349269741c.svg">
 </div>
 
 ---
 
 <p align="center">
   <img src="./profile/stats.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrf0rtuna4&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrf0rtuna4&theme=tokyonight&hide_border=true" />
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrf0rtuna4&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrf0rtuna4&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrf0rtuna4&theme=tokyonight" />
 </p>
