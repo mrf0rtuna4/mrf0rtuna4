@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram">
     </a>
     <a href="https://fortuna.heypers.org/">
-      <img src="https://img.shields.io/badge/-Site-000?style=for-the-badge&logo=vercel">
+      <img src="https://img.shields.io/badge/-Site-000?style=for-the-badge">
     </a>
   </p>
 </div>
@@ -124,7 +124,7 @@
     <img src="https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram">
   </a>
   <a href="https://fortuna.heypers.org/">
-    <img src="https://img.shields.io/badge/site-000?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/site-000?style=for-the-badge">
   </a>
 </p>
 
