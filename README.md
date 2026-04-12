@@ -69,9 +69,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>???</h3>
-      <p>оно работает. не трогай.</p>
-      <p><code>trust me</code></p>
+      <h3>aeoncord</h3>
+      <p>смешарик, фрейм по д.апи но структура разделяет ответственность</p>
+      <p><code>trust me, Python</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📝 AutoTranslator</h3>
