@@ -152,7 +152,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrf0rtuna4&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" />
 </p>
 
 ---
