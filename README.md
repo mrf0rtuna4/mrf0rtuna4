@@ -158,12 +158,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrf0rtuna4&theme=tokyonight" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrf0rtuna4&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrf0rtuna4&theme=tokyonight" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
