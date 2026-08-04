@@ -1,11 +1,14 @@
-name: Generate Localized Readme
+name: Generate Localized File
 
 on:
   workflow_dispatch:
 
   push:
     branches:
-      - main
+      - master
+
+permissions:
+  contents: write
 
 jobs:
   translate:
@@ -15,15 +18,16 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run translation
-        uses: mrf0rtuna4/Git-Markdown-AutoTranslator@v2.1.0
+        uses: mrf0rtuna4/Git-Markdown-AutoTranslator@master
         with:
-          LANGS: 'en, ar, uk, it, ja'
+          LANGS: 'ru, ar, uk, it, ja'
           FILES: 'README.md'
+          DEBUG: 'True'
 
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: translations
+          target_branch: translations_indev
           build_dir: 'dist'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
