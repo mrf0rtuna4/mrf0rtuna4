@@ -35,6 +35,7 @@ jobs:
           path: profile-summary-card-output
           if-no-files-found: error
 
+
   streak:
     name: Generate streak stats
     runs-on: ubuntu-latest
@@ -42,19 +43,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: mkdir -p profile
+      - run: mkdir -p profile/generated
 
       - uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true
-          path: profile/streak.svg
+          path: profile/generated/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/upload-artifact@v4
         with:
           name: streak
-          path: profile/streak.svg
+          path: profile/generated/streak.svg
           if-no-files-found: error
+
 
   stats:
     name: Generate README stats
@@ -63,20 +65,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: mkdir -p profile
+      - run: mkdir -p profile/generated
 
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
-          path: profile/stats.svg
+          path: profile/generated/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/upload-artifact@v4
         with:
           name: stats
-          path: profile/stats.svg
+          path: profile/generated/stats.svg
           if-no-files-found: error
+
 
   translate:
     name: Generate translations
@@ -94,10 +97,9 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: translations
-          path: |
-            README*.md
-            dist/**
-          if-no-files-found: warn
+          path: dist
+          if-no-files-found: error
+
 
   commit:
     name: Commit generated files
@@ -114,40 +116,43 @@ jobs:
 
       - uses: actions/download-artifact@v4
         with:
-          path: artifacts
+          path: .tmp/artifacts
 
-      - name: Restore generated files
+      - name: Collect generated files
         run: |
-          mkdir -p profile
+          rm -rf profile/generated
+          mkdir -p profile/generated
 
-          if [ -d artifacts/summary/profile-summary-card-output ]; then
-            rm -rf profile-summary-card-output
-            cp -R artifacts/summary/profile-summary-card-output .
-          elif [ -d artifacts/summary ]; then
-            cp -R artifacts/summary/profile-summary-card-output . 2>/dev/null || true
-            cp -R artifacts/summary/* . 2>/dev/null || true
+          if [ -d ".tmp/artifacts/summary" ]; then
+            mkdir -p profile/generated/summary
+            cp -R .tmp/artifacts/summary/* profile/generated/summary/
           fi
 
-          if [ -f artifacts/stats/stats.svg ]; then
-            cp artifacts/stats/stats.svg profile/
+          if [ -f ".tmp/artifacts/streak/streak.svg" ]; then
+            cp .tmp/artifacts/streak/streak.svg profile/generated/
           fi
 
-          if [ -f artifacts/streak/streak.svg ]; then
-            cp artifacts/streak/streak.svg profile/
+          if [ -f ".tmp/artifacts/stats/stats.svg" ]; then
+            cp .tmp/artifacts/stats/stats.svg profile/generated/
           fi
 
-          if [ -d artifacts/translations/dist ]; then
-            cp -R artifacts/translations/dist/* . 2>/dev/null || true
+          if [ -d ".tmp/artifacts/translations" ]; then
+            mkdir -p profile/generated/translations
+            cp -R .tmp/artifacts/translations/* profile/generated/translations/
           fi
 
-          find artifacts/translations -maxdepth 1 -name "README*.md" -exec cp {} . \;
+          rm -rf .tmp
+
+          echo "Generated files:"
+          find profile/generated -type f
+
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add .
+          git add profile/generated
 
           git diff --cached --quiet && exit 0
 
