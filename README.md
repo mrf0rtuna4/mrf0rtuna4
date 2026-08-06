@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mr_Fortuna</h1>
-  <p><b>Пью бетон evriday</b> · <i>ъ!</i></p>
+  <p><b>Пью бетон evriday</b> · <i>щъщ!</i></p>
 
   <p>
     <code>programmer</code> · <code>3D</code> · <code>Minecraft stuff</code> · <code>web</code>
