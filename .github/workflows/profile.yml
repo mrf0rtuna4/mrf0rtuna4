@@ -13,12 +13,11 @@ permissions:
 
 jobs:
   summary:
+    name: Generate summary cards
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
-
-      - run: mkdir -p generated
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -33,9 +32,11 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: summary
-          path: profile/
+          path: profile-summary-card-output
+          if-no-files-found: error
 
   streak:
+    name: Generate streak stats
     runs-on: ubuntu-latest
 
     steps:
@@ -53,8 +54,10 @@ jobs:
         with:
           name: streak
           path: profile/streak.svg
+          if-no-files-found: error
 
   stats:
+    name: Generate README stats
     runs-on: ubuntu-latest
 
     steps:
@@ -73,8 +76,10 @@ jobs:
         with:
           name: stats
           path: profile/stats.svg
+          if-no-files-found: error
 
   translate:
+    name: Generate translations
     runs-on: ubuntu-latest
 
     steps:
@@ -91,8 +96,11 @@ jobs:
           name: translations
           path: |
             README*.md
+            dist/**
+          if-no-files-found: warn
 
   commit:
+    name: Commit generated files
     runs-on: ubuntu-latest
 
     needs:
@@ -108,18 +116,36 @@ jobs:
         with:
           path: artifacts
 
-      - run: |
+      - name: Restore generated files
+        run: |
           mkdir -p profile
 
-          cp -r artifacts/summary/* .
-          cp artifacts/streak/streak.svg profile/
-          cp artifacts/stats/stats.svg profile/
-          cp artifacts/translations/* .
+          if [ -d artifacts/summary/profile-summary-card-output ]; then
+            rm -rf profile-summary-card-output
+            cp -R artifacts/summary/profile-summary-card-output .
+          elif [ -d artifacts/summary ]; then
+            cp -R artifacts/summary/profile-summary-card-output . 2>/dev/null || true
+            cp -R artifacts/summary/* . 2>/dev/null || true
+          fi
 
-      - name: Commit
+          if [ -f artifacts/stats/stats.svg ]; then
+            cp artifacts/stats/stats.svg profile/
+          fi
+
+          if [ -f artifacts/streak/streak.svg ]; then
+            cp artifacts/streak/streak.svg profile/
+          fi
+
+          if [ -d artifacts/translations/dist ]; then
+            cp -R artifacts/translations/dist/* . 2>/dev/null || true
+          fi
+
+          find artifacts/translations -maxdepth 1 -name "README*.md" -exec cp {} . \;
+
+      - name: Commit changes
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add .
 
