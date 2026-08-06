@@ -158,12 +158,12 @@
 ---
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="./profile/generated/summary/tokyonight/0-profile-details.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="./profile/generated/summary/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile/generated/summary/tokyonight/2-most-commit-language.svg" />
 </p>
