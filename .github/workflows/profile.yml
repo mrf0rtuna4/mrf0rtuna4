@@ -1,1 +1,103 @@
 name: Update Profile Assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+
+jobs:
+
+  summary:
+    name: Generate summary cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          THEME: tokyonight
+          AUTO_PUSH: false
+
+
+  streak:
+    name: Generate streak stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+
+  stats:
+    name: Generate README cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+
+  translate:
+    name: Generate translations
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Translate README
+        uses: mrf0rtuna4/Git-Markdown-AutoTranslator@v2.3.0
+        with:
+          LANGS: "ru,ar,uk,it,ja"
+          FILES: "README.md"
+          DEBUG: "True"
+
+
+  commit:
+    name: Commit generated files
+    runs-on: ubuntu-latest
+
+    needs:
+      - summary
+      - streak
+      - stats
+      - translate
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          git commit -m "Update profile assets" || exit 0
+
+          git push
