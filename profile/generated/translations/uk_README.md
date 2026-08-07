@@ -139,7 +139,7 @@
 
 ---
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+## ❄️ статистика
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=for-the-badge&color=0f0f0f&label=views">
@@ -156,12 +156,12 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 ---
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="./profile/generated/summary/tokyonight/0-profile-details.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="./profile/generated/summary/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile/generated/summary/tokyonight/2-most-commit-language.svg" />
 </p>

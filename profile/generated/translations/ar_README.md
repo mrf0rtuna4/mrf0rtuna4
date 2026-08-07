@@ -104,7 +104,10 @@
 
 ```
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- أحب أن لا يكون هناك أي خجل في فتح الرمز بعد ستة أشهر  
+- مداخن غريبة = حلول عادية  
+- إذا كنت تستطيع تبسيط الأمر، فعليك تبسيطه  
+- إذا لم تتمكن من ذلك، حسنًا، باختصار، دعنا نتظاهر بأن ذلك ممكن
 ---
 
 <div align="center">
@@ -153,12 +156,12 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 ---
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="./profile/generated/summary/tokyonight/0-profile-details.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="./profile/generated/summary/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile/generated/summary/tokyonight/2-most-commit-language.svg" />
 </p>
