@@ -151,8 +151,8 @@
 ---
 
 <p align="center">
-  <img src="./profile/stats.svg" />
-  <img src="./profile/streak.svg" />
+  <img src="./profile/generated/stats.svg" />
+  <img src="./profile/generated/streak.svg" />
 </p>
 
 ---
