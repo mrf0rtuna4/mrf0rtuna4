@@ -7,9 +7,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/mrf0rtuna4">
-      <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github">
-    </a>
     <a href="https://t.me/mr_fortuna">
       <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram">
     </a>
@@ -41,11 +38,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/py-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/cs-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/rs-000000?style=for-the-badge&logo=rust">
+  <img src="https://img.shields.io/badge/cs-239120?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
 ---
