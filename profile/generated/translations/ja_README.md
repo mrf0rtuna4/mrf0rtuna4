@@ -101,8 +101,8 @@
 ```
 
 - 半年後にコードを開いても恥ずかしくないところが気に入っています  
-- 奇妙なスタック = 通常の解決策  
-- 簡素化できる場合は簡素化する必要があります  
+- strange stacks = normal solutions  
+- if you can simplify it, you should simplify it  
 - できないなら、要するに、できるふりをしましょう
 ---
 
