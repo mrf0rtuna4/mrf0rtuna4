@@ -22,7 +22,8 @@
   <h2>⚙️ что тут вообще происходит</h2>
 </div>
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> a volte sembra 💀  
+> poi all'improvviso diventa utile
 
 - Scrivo cose che **avrebbero dovuto essere piccole**
 - Rompo Minecraft e lo rimetto insieme
@@ -99,7 +100,10 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ```
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- Mi piace quando non c'è vergogna nell'aprire il codice sei mesi dopo  
+- pile strane = soluzioni normali  
+- Se puoi semplificarlo, dovresti semplificarlo  
+- se non puoi, beh, insomma, facciamo finta che sia possibile
 ---
 
 <div align="center">
