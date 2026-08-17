@@ -22,8 +22,7 @@
   <h2>⚙️ что тут вообще происходит</h2>
 </div>
 
-> 時々💀のように見えます  
-> そうすると急に便利になるんです
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 - **小さいはずだった**ことを書いています
 - Minecraft を壊して元に戻します
@@ -100,10 +99,7 @@
 
 ```
 
-- 半年後にコードを開いても恥ずかしくないところが気に入っています  
-- 奇妙なスタック = 通常の解決策  
-- 簡素化できる場合は簡素化する必要があります  
-- できないなら、要するに、できるふりをしましょう
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 ---
 
 <div align="center">
