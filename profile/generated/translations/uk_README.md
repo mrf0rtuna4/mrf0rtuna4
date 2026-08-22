@@ -100,7 +100,10 @@
 
 ```
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- люблю коли код не соромно відкрити за півроку  
+- дивні стеки = нормальні рішення  
+- якщо можна спростити, таки треба спростити  
+- якщо не можна ну коротше вдаємо що можна
 ---
 
 <div align="center">

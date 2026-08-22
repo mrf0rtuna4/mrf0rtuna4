@@ -102,7 +102,7 @@
 
 - Mi piace quando non c'è vergogna nell'aprire il codice sei mesi dopo  
 - pile strane = soluzioni normali  
-- Se puoi semplificarlo, dovresti semplificarlo  
+- se puoi semplificarlo, dovresti semplificarlo  
 - se non puoi, beh, insomma, facciamo finta che sia possibile
 ---
 
@@ -135,7 +135,7 @@
 
 ---
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+## ❄️ statistiche
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=for-the-badge&color=0f0f0f&label=views">
