@@ -102,7 +102,7 @@
 
 - Mi piace quando non c'è vergogna nell'aprire il codice sei mesi dopo  
 - pile strane = soluzioni normali  
-- se puoi semplificarlo, dovresti semplificarlo  
+- Se puoi semplificarlo, dovresti semplificarlo  
 - se non puoi, beh, insomma, facciamo finta che sia possibile
 ---
 
