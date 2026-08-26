@@ -22,9 +22,13 @@
   <h2>⚙️ что тут вообще происходит</h2>
 </div>
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> іноді це виглядає як 💀  
+> потім раптово стає корисним
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- пишу штуки, які **мали бути маленькими**
+- ламаю Minecraft і збираю назад
+- роблю веб + Discord
+- іноді йду в 3D і не повертаюся
 ---
 
 <div align="center">
@@ -96,7 +100,10 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ```
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- люблю коли код не соромно відкрити за півроку  
+- дивні стеки = нормальні рішення  
+- якщо можна спростити, таки треба спростити  
+- якщо не можна ну коротше вдаємо що можна
 ---
 
 <div align="center">
@@ -128,7 +135,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ---
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+## ❄️ статистика
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=for-the-badge&color=0f0f0f&label=views">
