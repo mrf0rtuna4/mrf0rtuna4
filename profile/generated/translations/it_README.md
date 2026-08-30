@@ -101,8 +101,8 @@
 ```
 
 - Mi piace quando non c'è vergogna nell'aprire il codice sei mesi dopo  
-- strange stacks = normal solutions  
-- if you can simplify it, you should simplify it  
+- pile strane = soluzioni normali  
+- se puoi semplificarlo, dovresti semplificarlo  
 - se non puoi, beh, insomma, facciamo finta che sia possibile
 ---
 
