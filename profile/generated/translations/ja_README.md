@@ -100,10 +100,7 @@
 
 ```
 
-- 半年後にコードを開いても恥ずかしくないところが気に入っています  
-- 奇妙なスタック = 通常の解決策  
-- 簡素化できる場合は簡素化する必要があります  
-- できないなら、要するに、できるふりをしましょう
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 ---
 
 <div align="center">
@@ -135,7 +132,7 @@
 
 ---
 
-## ❄️ 統計
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=for-the-badge&color=0f0f0f&label=views">
