@@ -22,9 +22,13 @@
   <h2>⚙️ что тут вообще происходит</h2>
 </div>
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 時々💀のように見えます  
+> そうすると急に便利になるんです
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- **小さいはずだった**ことを書いています
+- Minecraft を壊して元に戻します
+- Web + Discordをやっています
+- 時々 3D に入って戻らなくなることがあります
 ---
 
 <div align="center">
@@ -96,7 +100,10 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ```
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- 半年後にコードを開いても恥ずかしくないところが気に入っています  
+- 奇妙なスタック = 通常の解決策  
+- 簡素化できる場合は簡素化する必要があります  
+- できないなら、要するに、できるふりをしましょう
 ---
 
 <div align="center">
@@ -128,7 +135,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ---
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+## ❄️ 統計
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=for-the-badge&color=0f0f0f&label=views">

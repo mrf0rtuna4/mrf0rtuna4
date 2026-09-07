@@ -22,9 +22,13 @@
   <h2>⚙️ что тут вообще происходит</h2>
 </div>
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> في بعض الأحيان يبدو 💀  
+> ثم يصبح فجأة مفيدًا
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- أكتب أشياء **كان ينبغي أن تكون صغيرة**
+- لقد كسرت لعبة ماينكرافت وأعدتها مرة أخرى
+- عمل ويب + ديسكورد
+- أحيانًا أذهب إلى عالم ثلاثي الأبعاد ولا أعود
 ---
 
 <div align="center">
@@ -96,7 +100,10 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ```
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+- أحب أن لا يكون هناك أي خجل في فتح الرمز بعد ستة أشهر  
+- مداخن غريبة = حلول عادية  
+- إذا كنت تستطيع تبسيط الأمر، فعليك تبسيطه  
+- إذا لم تتمكن من ذلك، حسنًا، باختصار، دعنا نتظاهر بأن ذلك ممكن
 ---
 
 <div align="center">
@@ -128,7 +135,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ---
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+## ❄️ احصائيات
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrf0rtuna4&style=for-the-badge&color=0f0f0f&label=views">
