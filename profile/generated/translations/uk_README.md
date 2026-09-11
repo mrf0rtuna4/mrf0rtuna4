@@ -22,8 +22,7 @@
   <h2>⚙️ что тут вообще происходит</h2>
 </div>
 
-> іноді це виглядає як 💀  
-> потім раптово стає корисним
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 - пишу штуки, які **мали бути маленькими**
 - ламаю Minecraft і збираю назад

@@ -100,10 +100,7 @@
 
 ```
 
-- Mi piace quando non c'è vergogna nell'aprire il codice sei mesi dopo  
-- pile strane = soluzioni normali  
-- Se puoi semplificarlo, dovresti semplificarlo  
-- se non puoi, beh, insomma, facciamo finta che sia possibile
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 ---
 
 <div align="center">
