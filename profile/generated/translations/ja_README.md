@@ -24,10 +24,7 @@
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-- **小さいはずだった**ことを書いています
-- Minecraft を壊して元に戻します
-- Web + Discordをやっています
-- 時々 3D に入って戻らなくなることがあります
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 ---
 
 <div align="center">
