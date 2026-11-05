@@ -88,7 +88,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: mrf0rtuna4/Git-Markdown-AutoTranslator@master
+      - uses: mrf0rtuna4/Git-Markdown-AutoTranslator@v2.3.1
         with:
           LANGS: "ru,ar,uk,it,ja"
           FILES: "README.md"
